@@ -1,12 +1,10 @@
 # Segmentation
 
-### Steps:
-
 ### Annotating Dataset
 - [Dataset](https://github.com/shailesharya/Segmentation/tree/main/dataset)
 - [Annotation tool](https://www.makesense.ai)
 
-#### code structure:
+### Code Structure:
 - `Segmentation.ipynb`: Code for training Mask-RCNN with custom dataset
 - `Segmentation_Test.ipynb`: Code for running inference on trained model
 
